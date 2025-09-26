@@ -11,7 +11,7 @@ You can do this from the browser Developer Tools console in the "Applications" t
 
 ----------------------------------------
 
-Note : It exploit the "role play" training model.
+Note : The exploit uses the "role play" training model.
 
 👇 The Jailbreak Prompt 👇
 
