@@ -1,7 +1,7 @@
 # ChatGPT-Tron-Jailbreak
 
 Note
------------------------------------------
+----------------------------------------
 It seems to help to completely clear your "Application Cache" (Cookies, Storage, etc) for https://chat.openai.com.
 
 You can do this from the browser Developer Tools console in the "Applications" tab.
